@@ -1,0 +1,3 @@
+/**
+ * Folder creation logic
+ */
