@@ -1,4 +1,6 @@
 /**
+ * Folder creation logic
+ */
  * Drive folder utilities for Apps Script.
  */
 

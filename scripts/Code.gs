@@ -1,1 +1,3 @@
-// Main entry and globals
+/**
+ * Main entry and globals
+ */

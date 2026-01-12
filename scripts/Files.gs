@@ -1,4 +1,6 @@
 /**
+ * Move/Copy/Delete logic
+ */
  * Copies a file to a new destination folder with an optional new name.
  *
  * @param {string} fileId The ID of the file to copy.

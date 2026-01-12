@@ -1,4 +1,6 @@
 /**
+ * PDF & Edit logic
+ */
  * Creates a Doc in a specific folder.
  */
 function createDocInFolder(name, folderId) {
