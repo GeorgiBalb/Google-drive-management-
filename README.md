@@ -16,3 +16,15 @@ A robust library of Google Apps Script functions and a React-based interface for
 ## 📄 License
 
 MIT
+Organizing Your Apps Script Library
+
+## *Organizing Your Apps Script Library*
+
+If your Google Apps Script project becomes large, you can improve organization by splitting your code into multiple `.gs` files instead of keeping everything in a single file.Suggested File Organization:
+
+| File Name | Purpose | Example Functions/Logic |
+| ----- | ----- | ----- |
+| `Code.gs` | Main script entry points and global setup. | Main variables, `onOpen()` menus. |
+| `Folders.gs` | Functions related to Google Drive folder manipulation. | `createFolder`, `createFolderPath`. |
+| `Files.gs` | Functions related to Google Drive file operations. | `moveFile`, `copyFile`, `deleteFile`. |
+| `Docs.gs` | Functions related to document-specific tasks. | PDF conversion, 'Find and Replace' logic. |
